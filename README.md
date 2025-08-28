@@ -1,3 +1,7 @@
+Check Out the backend working.avi video to see what's happening in backend of this model
+
+
+
 This project implements a Smart Parking System using AI and computer vision techniques. The system uses cameras (or image input) to:
 
 🎯 Detect parking alignment – Identify whether a vehicle is parked correctly or incorrectly.
